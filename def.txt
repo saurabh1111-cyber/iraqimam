@@ -1,0 +1,11 @@
+hi >> def.txt
+
+
+
+
+
+
+
+
+echo hi
+hi
